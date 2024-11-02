@@ -7,6 +7,8 @@
 
 ![JoGabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Linguagem Utilizadas No Dia a Dia
 
 <div style="display: inline_block"><br>
