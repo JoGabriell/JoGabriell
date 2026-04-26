@@ -1,7 +1,7 @@
 ### Hi, I'm João Gabriel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-3b6740336/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:JGabriellBusiness@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsdvMqvbpTmlLWQqFbmjNQbhgnMBvFcbcMptmQtHdXRKNqRhFnQQBqkCzstJvtZwkBtg)
 
 **Software Engineering Student | Full Stack Enthusiast | Seeking Opportunities in Portugal 🇵🇹**
 
@@ -32,5 +32,7 @@
 
 ### GitHub Stats
 
-![JoGabriell GitHub stats](https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=gruvbox)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=gruvbox" />
+</div>
