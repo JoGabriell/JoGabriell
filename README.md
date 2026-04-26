@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 🎓 Studying **Software Engineering** and **Software Development (TDS - SENAI)**.
+- 🎓 Studying **Software Engineering** and **Software Development.
 - 🚀 Focused on **Full Stack Development** with **JavaScript, TypeScript, React and Node.js**.
 - 🌍 My goal is to build a career in **Lisbon, Portugal**.
 - 🛠️ Constantly learning, improving my code and building projects with real-world potential.
