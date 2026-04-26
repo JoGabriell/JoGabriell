@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-- 🎓 Studying **Software Engineering** and **Software Development (TDS - SENAI)**.
+- 🎓 Studying **Software Engineering** and **Software Development.
 - 🚀 Focus on **Full Stack Development** with Node.js and React.
 - 🌍 Goal: Working and living in **Lisbon/Portugal**.
 - 🛠️ Currently improving my English and building real-world projects.
@@ -33,6 +33,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=gruvbox" />
 </div>
