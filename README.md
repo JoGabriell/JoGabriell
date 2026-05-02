@@ -1,7 +1,7 @@
 ### Hi, I'm João Gabriel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-3b6740336/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsdvMqvbpTmlLWQqFbmjNQbhgnMBvFcbcMptmQtHdXRKNqRhFnQQBqkCzstJvtZwkBtg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:JGabriellBusiness@outlook.com)
 
 **Software Engineering Student | Full Stack Enthusiast | Seeking Opportunities in Portugal 🇵🇹**
 
@@ -29,8 +29,6 @@
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
----
 
 ---
 
