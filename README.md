@@ -40,13 +40,19 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoGabriell&theme=dracula" />
+  <!-- totals badges -->
+  <img src="https://img.shields.io/github/followers/JoGabriell?style=for-the-badge&label=Followers" /> 
+  <img src="https://img.shields.io/github/stars/JoGabriell/REPO_1?style=for-the-badge&label=Stars+on+REPO_1" />
+  <img src="https://img.shields.io/github/contributors/JoGabriell/REPO_1?style=for-the-badge&label=Contributors+REPO_1" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoGabriell&theme=dracula" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoGabriell&theme=dracula" />
+  <!-- Top langs (pode falhar se o serviço estiver em rate-limit) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=dracula" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </p>
