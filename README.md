@@ -37,10 +37,6 @@
 ### GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoGabriell&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoGabriell&theme=dracula" />
 </p>
