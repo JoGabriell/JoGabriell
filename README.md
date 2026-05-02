@@ -1,7 +1,7 @@
 ### Hi, I'm João Gabriel 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-3b6740336/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:JGabriellBusiness@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomouradev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](data:text/html,<!doctype%20html><html><head><meta%20charset='utf-8'><title>Contact</title></head><body><p%20style='font-family:sans-serif;font-size:20px'>Meu%20e-mail:%20jgabriellmoura%40gmail.com</p></body></html>)
 
 **Software Engineering Student | Full Stack Enthusiast | Seeking Opportunities in Portugal 🇵🇹**
 
