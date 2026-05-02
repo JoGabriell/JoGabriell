@@ -3,13 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-3b6740336/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsdvMqvbpTmlLWQqFbmjNQbhgnMBvFcbcMptmQtHdXRKNqRhFnQQBqkCzstJvtZwkBtg)
 
-**Software Engineering Student | Full Stack Enthusiast | Java • React • Node.js • TypeScript | Seeking Opportunities in Portugal 🇵🇹**
+**Software Engineering Student | Full Stack Enthusiast | Seeking Opportunities in Portugal 🇵🇹**
 
 ---
 
 ### About Me
 - 🎓 Studying **Software Engineering** and **Software Development**.
-- 🚀 Focus on **Full Stack Development** with Java, Node.js and React.
+- 🚀 Focus on **Full Stack Development** with Node.js and React.
 - 🌍 Goal: Working and living in **Lisbon/Portugal**.
 - 🛠️ Currently improving my English and building real-world projects.
 
