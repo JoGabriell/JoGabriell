@@ -38,28 +38,15 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <p align="center">
-  <!-- Profile summary (totals: repos, contributions, joined, etc.) -->
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoGabriell&theme=dracula" />
 </p>
 
-<!-- Badges por repositório: top language + stars (substitua REPO_1, REPO_2, ...) -->
 <p align="center">
-  <a href="https://github.com/JoGabriell/REPO_1" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/JoGabriell/REPO_1?style=for-the-badge" alt="REPO_1 language" />
-  </a>
-  <a href="https://github.com/JoGabriell/REPO_1/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/JoGabriell/REPO_1?style=for-the-badge&logo=github" alt="REPO_1 stars" />
-  </a>
-
-  <a href="https://github.com/JoGabriell/REPO_2" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/JoGabriell/REPO_2?style=for-the-badge" alt="REPO_2 language" />
-  </a>
-  <a href="https://github.com/JoGabriell/REPO_2/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/JoGabriell/REPO_2?style=for-the-badge&logo=github" alt="REPO_2 stars" />
-  </a>
-
-  <!-- adicione mais blocos iguais para cada repo que quiser destacar -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoGabriell&theme=dracula" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoGabriell&theme=dracula" />
 </p>
