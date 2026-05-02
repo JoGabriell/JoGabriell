@@ -42,17 +42,23 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
+<!-- Linha 1: Resumo Geral e Troféus (Mostra seu nível e conquistas) -->
 <p align="center">
-  <!-- totals badges -->
-  <img src="https://img.shields.io/github/followers/JoGabriell?style=for-the-badge&label=Followers" /> 
-  <img src="https://img.shields.io/github/stars/JoGabriell/REPO_1?style=for-the-badge&label=Stars+on+REPO_1" />
-  <img src="https://img.shields.io/github/contributors/JoGabriell/REPO_1?style=for-the-badge&label=Contributors+REPO_1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=JoGabriell&theme=dracula&no-frame=false&margin-w=15&column=3" />
 </p>
 
+<!-- Linha 2: Linguagens e Atividade (Gráfico de pizza e barras de produtividade) -->
 <p align="center">
-  <!-- Top langs (pode falhar se o serviço estiver em rate-limit) -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=dracula" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoGabriell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabriell&layout=compact&theme=dracula&hide_progress=false" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoGabriell&theme=dracula&utcOffset=-3" />
+</p>
+
+<!-- Linha 3: Streak (Mostra que você coda todos os dias - Ótimo para Juniores) -->
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoGabriell&theme=dracula" />
 </p>
